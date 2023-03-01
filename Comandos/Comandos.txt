@@ -6,3 +6,5 @@ Segundo comando: git add .
 
 Tercer comando: git commit -m " " nota: entre las comillas se pone lo que estan subiendo o modificando ejemplo:
 añadi objetivos y acta constitiva, o modifique el archivo de la acta constitutiva
+
+Cuarto comando: git push para subir todos los archivos y los comentarios
