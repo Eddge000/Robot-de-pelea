@@ -1,0 +1,8 @@
+Comandos para subir a la plataforma de GITHUB.
+
+Primer comando: git status
+
+Segundo comando: git commit -m " " nota: entre las comillas se pone lo que estan subiendo o modificando ejemplo:
+añadi objetivos y acta constitiva, o modifique el archivo de la acta constitutiva
+
+Tercer comando: 
